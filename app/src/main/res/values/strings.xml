@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Did you Know?</string>
+    <string name="title_activity_navigation__drawer">Did you Know?</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Dashboard</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="about">"Did You Know?" is a free app that gives you access to a lot of eye popping facts that will also blow your mind.
+
+So you are free? Feeling bored? Mood is off? Get out of the artificial world of social media, read some facts, you will learn new things and share then with your friends and family.
+
+In our app facts are categorised, so you can choose according to your interest, new facts will be added continuously so that your hunger of knowledge will get satisfied...</string>
+</resources>

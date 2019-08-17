@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#05c3f9</color>
+    <color name="colorPrimaryDark">#A9A9A9</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#ffffff</color>
+    <color name="logokacolor">#5c0e7a</color>
+    <color name="black">#000000</color>
+    <color name="toolbar">#000000</color>
+    <color name="colorTransparentWhite">#cccccc</color>
+    <color name="darkblue">#085fb4</color>
+</resources>
